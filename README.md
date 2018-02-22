@@ -11,7 +11,7 @@ Installation
 
 Using the Cordova Command-line Interface:
 ```
-cordova plugin add https://github.com/petrica/wav-recorder.git
+cordova plugin add https://github.com/david-wizzili/wav-recorder.git
 ```
 
 Initialize Recorder
